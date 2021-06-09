@@ -390,3 +390,13 @@ input[type=password]:placeholder {
 * {
     box-sizing: border-box;
 }
+
+.usu_img{
+
+    align-content: center;
+    padding: 40px;
+    height: 300px;
+    width: 300px;
+
+}
+
